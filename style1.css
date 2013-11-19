@@ -1,0 +1,28 @@
+body{
+    background:#222;
+    font-family: 'Open Sans', sans-serif;
+    font-size:9pt;
+}
+
+a, a:hover, a:active, a:visited{
+    text-decoration:none;
+}
+
+#mainDiv{
+    background:#a11;
+    color:#fff;
+    border:0px solid black;
+    width:900px;
+    margin:10px auto;
+    padding:5px 18px;
+    border-radius:6px;
+    box-shadow:0px 0px 10px rgba(0,0,0,0.2);
+}
+
+.button{
+    background:#222;
+    color:#fff;
+    padding:2px 20px;
+    border-radius:3px;
+    box-shadow:inset 0px 1px 0px rgba(255,255,255,0.1);
+}
